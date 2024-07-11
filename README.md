@@ -1,4 +1,4 @@
-# IPC_Pipe_Log
+# IPC
 IPCRabbitMQLog - requires server installation [RabbitMQ](https://www.rabbitmq.com/docs/download)
 
 Diff:
